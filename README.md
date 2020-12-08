@@ -1,7 +1,11 @@
-### Hey, I'm Aditya Srivastav ✌
+## Hey, I'm Aditya Srivastav ✌
 
-## 2nd year CSE Undergraduate at NITW 😄
+###  2nd year CSE Undergrad at NITW 😄
 
+- 🔭 Android Development.
+- 🌱 Trying my hands on Web dev and ML. 
+- 😄 Love sketching and painting.
+- ⚡ Fun fact: Favorite season can be chilly and pepper too 🍕. 
 <!--
 
 Here are some ideas to get you started:
@@ -16,6 +20,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://github-profile-trophy.vercel.app/?username=4D17Y4&column=3&margin-w=15&margin-h=15 (https://github.com/ryo-ma/github-profile-trophy)">
+<!--<img src="https://github-profile-trophy.vercel.app/?username=4D17Y4&column=3&margin-w=15&margin-h=15 (https://github.com/ryo-ma/github-profile-trophy)"> -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=4D17Y4&show_icons=true&count_private=true&theme=dark" alt="4D17Y4" /></p>
