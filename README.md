@@ -1,2 +1,21 @@
-# 4A17Y4
-[![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=4D17Y4)](https://github.com/4D17Y4/github-readme-stats)
+### Hey, I'm Aditya Srivastav ✌
+
+## 2nd year CSE Undergraduate at NITW 😄
+
+<!--
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on Transformers & Generative Adversarial Networks
+- 🌱 I’m currently learning Data Structures and Algorithms
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
+<img src="https://github-profile-trophy.vercel.app/?username=4D17Y4&column=3&margin-w=15&margin-h=15 (https://github.com/ryo-ma/github-profile-trophy)">
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=4D17Y4&show_icons=true&count_private=true&theme=dark" alt="4D17Y4" /></p>
