@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=4D17Y4&show_icons=true&count_private=true&theme=dark" alt="4D17Y4" /></p>
  -->
  
- <img src="https://user-images.githubusercontent.com/54016427/134403191-6254bdd1-c4e1-4eac-9c98-f3f127ba323a.png">
+<!--  <img src="https://user-images.githubusercontent.com/54016427/134403191-6254bdd1-c4e1-4eac-9c98-f3f127ba323a.png"> -->
 <!--  ![profileRipped](https://user-images.githubusercontent.com/54016427/134403191-6254bdd1-c4e1-4eac-9c98-f3f127ba323a.png) -->
 
 <!-- ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=4D17Y4) -->
