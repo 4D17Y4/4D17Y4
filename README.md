@@ -25,8 +25,5 @@ Here are some ideas to get you started:
 <!-- 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=4D17Y4&show_icons=true&count_private=true&theme=dark" alt="4D17Y4" /></p>
  -->
- <!--START_SECTION:update_image-->
-<img src=https://raw.githubusercontent.com/4D17Y4/4D17Y4/main/.github/images/Cosmic%20spy7042_square.jpg height=180px width=180px align=right alt=https://picsum.photos/2000 />
-<!--END_SECTION:update_image-->
-
+ <img src="https://picsum.photos/2000" />
 <!-- ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=4D17Y4) -->
