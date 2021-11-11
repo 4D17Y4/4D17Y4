@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=4D17Y4&show_icons=true&count_private=true&theme=dark" alt="4D17Y4" /></p>
  -->
  <!--START_SECTION:update_image-->
- <!--END_SECTION:update_image-->
+<img src=https://raw.githubusercontent.com/4D17Y4/4D17Y4/main/.github/images/Put%20out%20the%20fire25105_square.jpg height=180px width=180px align=right alt=<alt-message> />
+<!--END_SECTION:update_image-->
 
 <!-- ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=4D17Y4) -->
